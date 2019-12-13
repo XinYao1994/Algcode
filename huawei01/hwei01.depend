@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576145804 source:c:\users\xin\documents\hwei01\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
